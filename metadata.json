@@ -1,0 +1,6 @@
+{
+  "name": "SchoolBus Pro - Kiểm Soát Xe Tuyến Học Sinh",
+  "description": "Ứng dụng kiểm soát học sinh đi xe tuyến đa nền tảng, tích hợp phân quyền Lái xe, Giám sát trường, Phụ huynh và Quản trị, điểm danh 2 chiều sáng-chiều, chốt danh sách và thông báo tức thì.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
